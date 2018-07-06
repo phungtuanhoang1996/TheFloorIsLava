@@ -1,22 +1,19 @@
-The Floor Is Lava (Originally named Treasure Rush)
+To the sky - an endless runner game written in Java
+
+Collect gems - avoid meteors - race against time!
 
 This is the repository for Orbital 2017 group of Phung Tuan Hoang and Tran Nhat Quang
 
-- Features implemented:
+Screenshots
 
-  + Basic classes for game and game objects
-  + Randomisation of bombs and gems
-  + Collision checking (precise hit box is not yet implemented)
-  + Textures currently borrowed from the internet
-  
-  + Collect stated number of gems and 30s is added to timer
-  + If timer ends and the gem combination is not fulfilled, end game.
-  + Gem combination and timer is printed on screen (but very basic)
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TWFVOamtHTDdzY0E)
 
-- Features to be implemented (non exclusive - to be added if see fit)
-  + Improve bounding area of objects (currently all rectangle)
-  + Goal fulfillment (gem collection / timer)
-  + Highscore
-  + Menu 
-  + Texture
-  + Revision of algorithm to improve performanc
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TVzRaTXZKbU1KcUU)
+
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TMTkySzJRNk0wejA)
+
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TMmI2b1BZUUk4ekk)
+
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TdU1yNVY5NWotSVk)
+
+![alt text](https://drive.google.com/open?id=0BxM0yZ-aC2_TdGdtRGIzN2JoZkU)
