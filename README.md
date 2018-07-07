@@ -10,7 +10,7 @@ Screenshots
 
 ![alt text](https://i.imgur.com/LthUebi.png)
 
-![alt text]https://i.imgur.com/0ZThD5N.png)
+![alt text](https://i.imgur.com/0ZThD5N.png)
 
 ![alt text](https://i.imgur.com/VdX4UpM.png)
 
